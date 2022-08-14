@@ -1,0 +1,25 @@
+body{
+    background: burlywood;
+font: normal 20px arial;
+margin-left: 200px;
+}
+#container{
+    font: normal 20px arial;
+    margin-top: 40px;
+    margin-inline: 500px;
+}
+#container input{
+    height: 20px;
+    border-radius: 10px;
+}
+h1{
+    margin-inline: 500px;
+}
+
+#operacoes{
+    border-radius: 10px;
+}
+#res{
+    margin-top: 30px;
+}
+
