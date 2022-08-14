@@ -18,3 +18,8 @@ debugger
     
     }
 };
+
+
+function FuncaoNovaGitTeste(){
+    console.log("Ola Git");
+}
